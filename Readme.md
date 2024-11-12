@@ -13,8 +13,8 @@ The Flow Log Processor is a Python tool designed to parse and tag network flow l
 
 **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/flow-log-processor.git
-cd flow-log-processor
+git clone https://github.com/CaptainChrisHua/LogProcessor.git
+cd LogProcessor
 ```
 
 **Prepare Required Files**:
